@@ -6,7 +6,7 @@ In addition to chopping up a video into scenes, you can also find 'visually simi
 
 The classifier was built and trained by Douweo Singa. Find it here: http://douweosinga.com/projects/reverse_image_search
 
-##Instructions
+## Instructions
 
 **Dependencies**
 
